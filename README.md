@@ -1,2 +1,2 @@
 # Assembly
-My assembly codes
+My assembly codes in 8086 Assembly Language.
