@@ -1,18 +1,18 @@
 # Assembly
 ## What Is It
-*Multiplication 32 bits int x8086
-**mul_32_bits.asm
+* Multiplication 32 bits int x8086
+* * mul_32_bits.asm
 It's main code, you can do multiplication operations for positive and 32 bits numbers.
-**mul_32_bits_procedure
+* * mul_32_bits_procedure
 It's procedure for multiplication operations.
-**linked_list.asm
+* * linked_list.asm
 It's linked list code for x8086. It has print procedure, scan procedure, add element procedure etc. .
 ## How it works
 You can use with numerical commands in DosBox or emu8086.
 ## How Can I Run
 ### Prerequisites
-*Use 'x8086' standart
-*Download 'emu8086' or 'DosBox'
+* Use 'x8086' standart
+* Download 'emu8086' or 'DosBox'
 ```
 git clone https://github.com/kaayra2000/Assembly/
 open dosbox
