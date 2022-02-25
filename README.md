@@ -9,7 +9,7 @@ It's procedure for multiplication operations.
 It's linked list code for x8086. It has print procedure, scan procedure, add element procedure etc. .
 ## How it works
 You can use with numerical commands in DosBox or emu8086.
-## How Can I Run
+## How Can Run
 ### Prerequisites
 * Use 'x8086' standart
 * Download 'emu8086' or 'DosBox'
